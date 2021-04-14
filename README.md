@@ -1,2 +1,1 @@
-# Shiva
-Test Automation Framework for web based Testing
+#A Java WebDriver Page Object Framework
